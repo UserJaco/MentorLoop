@@ -1,0 +1,8 @@
+{
+    "//": "This file is for the npm package feed only. It gets copied to the output",
+    "///": "This is the workflow designer UI package version",
+    "name": "@nintex/dev-workflow-designer-ui",
+    "version": "0.4.5-master.1",
+    "description": "Property Mapper Migration",
+    "dependencies": {}
+}
