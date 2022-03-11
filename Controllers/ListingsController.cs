@@ -6,8 +6,8 @@ namespace MyAPI.Controllers
 {
     public class ListingsController : ApiController
     {
-        // GET: api/listings
-        public IEnumerable<Listing> Get()
+        // GET: api/id/listings
+        public IEnumerable<Listing> Get(string id)
         {
             var listings = new List<Listing>();
             Listing listing = new Listing
